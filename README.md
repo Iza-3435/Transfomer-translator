@@ -5,7 +5,6 @@ This project is a simple neural machine translation model that translates German
 ## Features
 - Translation from German to English
 - BLEU score for translation quality evaluation
-- Transformer-based architecture
 
 ## Requirements
 - Python 3.x
