@@ -12,7 +12,4 @@ This project is a simple neural machine translation model that translates German
 - NLTK
 - Other libraries (e.g., NumPy, Matplotlib) for data processing and evaluation
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+
